@@ -48,18 +48,3 @@ To increase the quality of signals, the strategy calculates the distance between
 | **Take Profit (%)** | Float | Percentage-based target for closing positions. |
 
 ---
-
-## 📈 Usage Instructions
-
-1.  **Installation**: Copy the script into your Pine Editor (TradingView) or Python environment.
-2.  **Backtesting**: Use the Strategy Tester to find the optimal `Channel Width` for your specific timeframe.
-3.  **Optimization**: 
-    - For **Scalping**: Use lower timeframes (5m, 15m) with Mean Reversion mode.
-    - For **Swing Trading**: Use higher timeframes (4H, Daily) with Breakout mode.
-
-## 📜 Disclaimer
-This software is for educational purposes only. Trading involves significant risk. Always perform your own due diligence and backtest thoroughly before using real capital.
-
----
-**Author:** [Senin Adın/Kullanıcı Adın]  
-**License:** MIT
