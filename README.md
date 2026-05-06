@@ -48,3 +48,16 @@ To increase the quality of signals, the strategy calculates the distance between
 | **Take Profit (%)** | Float | Percentage-based target for closing positions. |
 
 ---
+
+
+
+<img width="935" height="698" alt="image" src="https://github.com/user-attachments/assets/f2b84ea9-649d-41d0-a866-430cf21d040e" />
+
+
+<img width="1658" height="829" alt="image" src="https://github.com/user-attachments/assets/d8b512d9-2535-4bc9-aaf0-8392f31223b2" />
+
+
+
+<img width="1897" height="512" alt="image" src="https://github.com/user-attachments/assets/c506c306-8690-4af6-a7f6-93ef47a2ebba" />
+
+
